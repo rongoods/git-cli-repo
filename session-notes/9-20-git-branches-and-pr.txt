@@ -1,0 +1,12 @@
+The teams common codebase is typically kept in the "main" branch. If you work on a new feature you:
+
+1. create a new feature branch and work on that new branch.
+2. commit your work on the new branch - the main branch is not effected.
+3. finish work on the new feature, test the new functionality and have other developers review your work.
+4. merge your feature branch into the main branch, so all your work is included in the main branch.
+
+Naming branches
+It is good practice to use short descriptive names for your feature branches, e.g. "feature/contact-form". We recommend using hyphens as separators as they make the name more comfortable to read. If fixing a bug "fix/contact-form"
+
+
+
